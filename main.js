@@ -1,5 +1,5 @@
 const locationPage = document.location.pathname
-const URI = "http://amazing-events.herokuapp.com/api/events"
+const URI = "amazing-events.herokuapp.com/api/events"
 const inputSearch = document.getElementById('search')
 const containerChekbox = document.getElementById('chekbox-container')
 const containerCard = document.getElementById('card-container')
