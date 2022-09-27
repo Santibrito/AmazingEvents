@@ -3,8 +3,8 @@
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
 
 <div style="display:flex;justify-content:center">
-<h2>Home</h2>
-<h2>Page 2</h2>
+Home
+Page 2
   </div>
 
 <div style="display:flex">
