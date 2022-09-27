@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" style="display:flex;margin:auto;">
+<img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" style="display:flex;margin:auto;justify-content: center;">
 
 
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
