@@ -25,7 +25,11 @@
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
 
 
-<div style="display:flex">
-<img src="https://i.ibb.co/FwHnsjQ/screencapture-127-0-0-1-5500-index-html-2022-09-27-10-50-32.png" width="400">
-<img src="https://i.ibb.co/FwHnsjQ/screencapture-127-0-0-1-5500-index-html-2022-09-27-10-50-32.png" width="400">
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://i.ibb.co/n3zDP2m/smartmockups-l8kb8pbj.png" style="vertical-align: top;" width="320" />
+    <img src="https://i.ibb.co/tHg1v66/smartmockups-l8kblxca.png" style="vertical-align: top;" width="430" />
+    <img src="https://i.ibb.co/6Px5BsD/smartmockups-l8kbo8kw.png" style="vertical-align: top;" width="140" />
+     
   </div>
+</div>
