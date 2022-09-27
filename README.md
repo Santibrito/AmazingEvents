@@ -27,9 +27,9 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://i.ibb.co/n3zDP2m/smartmockups-l8kb8pbj.png" style="vertical-align: top;" width="320" />
-    <img src="https://i.ibb.co/tHg1v66/smartmockups-l8kblxca.png" style="vertical-align: top;" width="430" />
-    <img src="https://i.ibb.co/6Px5BsD/smartmockups-l8kbo8kw.png" style="vertical-align: top;" width="140" />
+    <img src="https://i.ibb.co/n3zDP2m/smartmockups-l8kb8pbj.png" style="vertical-align: top;" width="300" />
+    <img src="https://i.ibb.co/tHg1v66/smartmockups-l8kblxca.png" style="vertical-align: top;" width="420" />
+    <img src="https://i.ibb.co/6Px5BsD/smartmockups-l8kbo8kw.png" style="vertical-align: top;" width="130" />
      
   </div>
 </div>
