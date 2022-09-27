@@ -28,7 +28,8 @@
   </div>
 </div>
 
-<h2>Diseño Responsive <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Ver pagina web</h3>
+ <br>
+<h2>Proceso de diseño <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Ver Mockups</h3>
 <div align="center">
   <div style="display: flex;">
     <img src="https://i.ibb.co/n3zDP2m/smartmockups-l8kb8pbj.png" style="vertical-align: top;" width="270" />
