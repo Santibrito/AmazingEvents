@@ -31,7 +31,7 @@
    <div align="center">
   <div style="display: flex;">
   <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Demo!</h3>
-  <br>
+  <h3> 
     <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Diseño!</h3>
   </div>
 </div>
