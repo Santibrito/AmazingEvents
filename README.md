@@ -22,7 +22,7 @@
   
   
   <br>
-<h5>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
+<h3>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h3>
 
 <h2>Diseño Responsive
 <div align="center">
