@@ -29,15 +29,13 @@
 </div>
 
  <br>
+  
 <h2>Proceso de diseño <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Ver Mockups</h3>
 <div align="center">
   <div style="display: flex;">
     <img src="https://i.ibb.co/q96nnPP/screencapture-behance-net-gallery-94777445-Citybank-mobile-app-redesign-2022-09-27-12-07-13.png" style="vertical-align: top;" width="1000" />
-
-     
   </div>
 </div>
-  
-  
-  <p>hola &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chau
 
+  
+  
