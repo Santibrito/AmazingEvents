@@ -1,7 +1,7 @@
 
 
-<div style="display:flex;text-align: center;margin: auto;justify-content: center;background-color:red;">
-  <img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" >
+<div style="display:flex;text-align: center;margin: auto;justify-content: center;background-color:red;" align="center">
+  <img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" align="center">
  </div>
   
 
