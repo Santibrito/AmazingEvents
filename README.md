@@ -24,7 +24,7 @@
   <br>
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
 
-
+<h2>Diseño Responsive
 <div align="center">
   <div style="display: flex;">
     <img src="https://i.ibb.co/n3zDP2m/smartmockups-l8kb8pbj.png" style="vertical-align: top;" width="270" />
