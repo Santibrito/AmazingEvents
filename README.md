@@ -2,12 +2,13 @@
 
 <div style="display:flex;text-align: center;margin: auto;justify-content: center;background-color:red;" align="center">
   <img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" align="center"  width="400">
-  
+  <br>  
+  <img src="https://i.ibb.co/ftStgHf/xxxxxxxxxxxxxxx.png"  width="500">
+  <br>  
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto veritatis amet similique? Aliquam minus perferendis odit quidem reiciendis ipsam architecto quisquam quae suscipit facilis, mollitia assumenda doloremque, praesentium autem animi!
 </p>
  </div>
- 
- 
+ <br>  
  <div align="center">
   <div style="display: flex;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="42px"style="vertical-align: top;" />
