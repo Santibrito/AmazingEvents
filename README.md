@@ -18,12 +18,6 @@
 </div>
  <br>
  
-
-  
-  
-  <br>
-<h3>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h3>
-
 <h2>Diseño Responsive
 <div align="center">
   <div style="display: flex;">
@@ -33,3 +27,12 @@
      
   </div>
 </div>
+  
+   <div align="center">
+  <div style="display: flex;">
+  <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Demo!</h3>
+  <br>
+    <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Diseño!</h3>
+  </div>
+</div>
+ <br>
