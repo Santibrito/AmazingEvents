@@ -1,10 +1,11 @@
 
 
 <div style="display:flex;text-align: center;margin: auto;justify-content: center;background-color:red;" align="center">
-  <img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" align="center">
+  <img src="https://raw.githubusercontent.com/Santibrito/AmazingEvents_Vanilla/main/assets/img/LogoAmazingEvents.png" align="center"  width="400">
  </div>
   
-
+ <h3>Lenguajes utilizados en el proyecto: </h3>
+  
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
 
 
