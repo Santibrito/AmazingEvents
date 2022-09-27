@@ -2,6 +2,11 @@
 
 <h1>Demo: <a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Click Here!</h1>
 
+<div style="display:flex;justify-content:center">
+<h2>Home</h2>
+<h2>Page 2</h2>
+  </div>
+
 <div style="display:flex">
 <img src="https://i.ibb.co/FwHnsjQ/screencapture-127-0-0-1-5500-index-html-2022-09-27-10-50-32.png" width="500">
 <img src="https://i.ibb.co/FwHnsjQ/screencapture-127-0-0-1-5500-index-html-2022-09-27-10-50-32.png" width="500">
