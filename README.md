@@ -31,10 +31,10 @@
 
  <br>
   
-<h2>Proceso de diseño <h3><a href="https://santibrito.github.io/AmazingEvents_Vanilla/">Ver Mockups</h3>
+<h2>Proceso de diseño <h3><a href="https://www.behance.net/gallery/153707781/Amazing-Events?" target="_blank">Ver Mockups</h3>
 <div align="center">
   <div style="display: flex;">
-    <img src="https://i.ibb.co/q96nnPP/screencapture-behance-net-gallery-94777445-Citybank-mobile-app-redesign-2022-09-27-12-07-13.png" style="vertical-align: top;" width="1000" />
+    <img src="https://i.ibb.co/tJPKVvg/DSA.png" style="vertical-align: top;" width="1000" />
   </div>
 </div>
 
