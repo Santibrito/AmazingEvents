@@ -31,7 +31,7 @@
 
  <br>
   
-<h2>Proceso de diseño <h3><a href="https://www.behance.net/gallery/153707781/Amazing-Events?" target="_blank">Ver Mockups</h3>
+<h2>Diseño <h3><a href="https://www.behance.net/gallery/153707781/Amazing-Events?" target="_blank">Ver Mockups</h3>
 <div align="center">
   <div style="display: flex;">
     <img src="https://i.ibb.co/tJPKVvg/DSA.png" style="vertical-align: top;" width="1000" />
